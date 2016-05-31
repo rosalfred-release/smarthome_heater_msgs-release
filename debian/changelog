@@ -1,0 +1,30 @@
+ros-indigo-smarthome-heater-msgs (0.1.21-0saucy) saucy; urgency=high
+
+  * Update script
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Mon, 30 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-heater-msgs (0.1.20-0saucy) saucy; urgency=high
+
+  * Rename package to smarthome_heater_msgs
+  * Contributors: Alfred Team, Erwan Le Huitouze, Mickael Gaillard
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Mon, 30 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-heater-msgs (0.1.19-0saucy) saucy; urgency=high
+
+  * Add license
+  * Update package file description
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sat, 28 May 2016 22:00:00 -0000
+
+ros-indigo-smarthome-heater-msgs (0.1.9-0saucy) saucy; urgency=high
+
+  * Add heater ros msg & srv
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickaël Gaillard <mick.gaillard@gmail.com>  Sat, 04 Apr 2015 22:00:00 -0000
+
+
